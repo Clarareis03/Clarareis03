@@ -1,16 +1,154 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Clarareis03/Clarareis03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Maria Clara Reis Quirino da Fonseca
 
-Here are some ideas to get you started:
+### Transformando dados em conhecimento, ideias em soluções e aprendizado em impacto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+de+Dados+para+Neg%C3%B3cios;Python+%7C+Data+Science+%7C+IA;Sempre+aprendendo%2C+sempre+construindo." />
+
+</div>
+
+---
+
+# ✨ Sobre mim
+
+🎓 Estudante de **Ciência de Dados para Negócios** na **Universidade Federal da Paraíba (UFPB)**.
+
+Sou apaixonada por tecnologia e por utilizar dados para compreender problemas, apoiar decisões e desenvolver soluções com impacto real.
+
+Atualmente venho aprofundando meus estudos em:
+
+- 📊 Ciência de Dados
+- 🤖 Inteligência Artificial
+- 🐍 Python
+- 📈 Estatística
+- 🧠 Análise de Dados
+- 💻 Desenvolvimento de Software
+
+Sempre busco aprender algo novo e transformar conhecimento em projetos práticos.
+
+---
+
+# 🚀 Tecnologias
+
+### Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Bibliotecas
+
+- Pandas
+- NumPy
+
+### Conhecimentos
+
+- Ciência de Dados
+- Estatística
+- Engenharia de Prompts
+- Inteligência Artificial
+- Programação Orientada a Objetos
+- Análise de Dados
+- Markdown
+
+---
+
+# 📚 Atualmente
+
+- 📖 Graduanda em Ciência de Dados para Negócios
+- 💻 Desenvolvendo projetos em Python
+- 📊 Aprendendo técnicas de análise e visualização de dados
+- 🤖 Explorando aplicações de Inteligência Artificial
+
+---
+
+# 📂 Projetos em Destaque
+
+### 📌 FocusU
+
+Sistema desenvolvido em Python para auxiliar estudantes na organização da rotina acadêmica.
+
+**Tecnologias**
+- Python
+- Programação Orientada a Objetos
+
+---
+
+### 📌 Análise do Perfil Socioeconômico e da Demanda por Assistência Estudantil
+
+Projeto acadêmico utilizando microdados do INEP para análise de dados educacionais.
+
+**Tecnologias**
+- Python
+- Pandas
+- Estatística
+
+---
+
+# 🌱 Objetivos
+
+Pretendo desenvolver minha carreira nas áreas de:
+
+- Ciência de Dados
+- Inteligência Artificial
+- Machine Learning
+- Analytics
+- Pesquisa aplicada
+- Desenvolvimento de Software
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/clara-reis-b2b658382">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mcrqf@academico.ufpb.br">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ "A tecnologia tem mais valor quando é utilizada para gerar conhecimento e transformar realidades."
+
+⭐ Obrigada por visitar meu perfil!
+
+</div>
+
+
