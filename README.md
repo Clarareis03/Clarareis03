@@ -4,6 +4,9 @@
 
 ### Transformando dados em conhecimento, ideias em soluções e aprendizado em impacto.
 
+</div>
+
+ 
 ---
 
 #  Sobre mim
