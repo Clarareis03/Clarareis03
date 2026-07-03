@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Maria Clara Reis Quirino da Fonseca
+#  Olá, eu sou Maria Clara Reis Quirino da Fonseca
 
 ### Transformando dados em conhecimento, ideias em soluções e aprendizado em impacto.
 
@@ -10,7 +10,7 @@
 
 ---
 
-# ✨ Sobre mim
+#  Sobre mim
 
 🎓 Estudante de **Ciência de Dados para Negócios** na **Universidade Federal da Paraíba (UFPB)**.
 
@@ -18,18 +18,17 @@ Sou apaixonada por tecnologia e por utilizar dados para compreender problemas, a
 
 Atualmente venho aprofundando meus estudos em:
 
-- 📊 Ciência de Dados
-- 🤖 Inteligência Artificial
-- 🐍 Python
-- 📈 Estatística
-- 🧠 Análise de Dados
-- 💻 Desenvolvimento de Software
+- Ciência de Dados
+- Inteligência Artificial
+- Python
+- Estatística
+- Análise de Dados
 
 Sempre busco aprender algo novo e transformar conhecimento em projetos práticos.
 
 ---
 
-# 🚀 Tecnologias
+#  Tecnologias
 
 ### Linguagens
 
@@ -60,16 +59,16 @@ Sempre busco aprender algo novo e transformar conhecimento em projetos práticos
 
 ---
 
-# 📚 Atualmente
+#  Atualmente
 
-- 📖 Graduanda em Ciência de Dados para Negócios
-- 💻 Desenvolvendo projetos em Python
-- 📊 Aprendendo técnicas de análise e visualização de dados
-- 🤖 Explorando aplicações de Inteligência Artificial
+-  Graduanda em Ciência de Dados para Negócios
+-  Desenvolvendo projetos em Python
+-  Aprendendo técnicas de análise e visualização de dados
+-  Explorando aplicações de Inteligência Artificial
 
 ---
 
-# 📂 Projetos em Destaque
+#  Projetos em Destaque
 
 ### 📌 FocusU
 
@@ -81,18 +80,18 @@ Sistema desenvolvido em Python para auxiliar estudantes na organização da roti
 
 ---
 
-### 📌 Análise do Perfil Socioeconômico e da Demanda por Assistência Estudantil
+### 📌 Análise do perfil socioeconômico e da demanda por assistência estudantil: um estudo baseado no Campus I da UFPB
 
-Projeto acadêmico utilizando microdados do INEP para análise de dados educacionais.
+Projeto acadêmico utilizando microdados do INEP.
 
 **Tecnologias**
 - Python
 - Pandas
-- Estatística
+- Power BI
 
 ---
 
-# 🌱 Objetivos
+#  Objetivos
 
 Pretendo desenvolver minha carreira nas áreas de:
 
@@ -103,31 +102,8 @@ Pretendo desenvolver minha carreira nas áreas de:
 - Pesquisa aplicada
 - Desenvolvimento de Software
 
----
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📫 Contato
+#  Contato
 
 <p align="center">
 
@@ -145,9 +121,9 @@ Pretendo desenvolver minha carreira nas áreas de:
 
 <div align="center">
 
-### ✨ "A tecnologia tem mais valor quando é utilizada para gerar conhecimento e transformar realidades."
+###  "A tecnologia tem mais valor quando é utilizada para gerar conhecimento e transformar realidades."
 
-⭐ Obrigada por visitar meu perfil!
+ Obrigada por visitar meu perfil!
 
 </div>
 
