@@ -4,10 +4,6 @@
 
 ### Transformando dados em conhecimento, ideias em soluções e aprendizado em impacto.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+de+Dados+para+Neg%C3%B3cios;Python+%7C+Data+Science+%7C+IA;Sempre+aprendendo%2C+sempre+construindo." />
-
-</div>
-
 ---
 
 #  Sobre mim
