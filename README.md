@@ -1,8 +1,8 @@
 <!-- BANNER DO TOPO COM SEU NOME -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=581c87&height=200&section=header&text=CLARA%20REIS&fontSize=45&fontColor=ffffff&fontFamily=Press+Start+2P&fontAlignY=35&desc=WELCOME%20TO%20MY%20CODE%20UNIVERSE&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=581c87&height=200&section=header&text=CLARA%20REIS&fontSize=45&fontColor=ffffff&fontFamily=Press+Start+2P&fontAlignY=35&desc=" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+CODE;DATA+SCIENCE+%40+UFPB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+CODE+UNIVERSE;DATA+SCIENCE+%40+UFPB" alt="Typing SVG" />
 
   <p><em>Transformando dados em conhecimento, ideias em soluções e aprendizado em impacto.</em></p>
 </div>
